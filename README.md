@@ -1,7 +1,9 @@
-#💻 AP_Final
+#💻 AP_Final:
+
 Atividade AP Final - Monitoramento de Logs
 
-🚀 Tecnologias
+🚀 Tecnologias:
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Wazuh 
@@ -14,6 +16,7 @@ Paulo Henrique Caldeira - RA 2302254
 
 
 📖Contextualização:
+
 A detecção precoce de incidentes de segurança em ambientes computacionais
 depende de uma coleta sistemática e inteligente de logs de eventos. O
 monitoramento automatizado desses registros permite identificar
