@@ -1,4 +1,4 @@
-#💻 AP_Final:
+#💻 Prova_Final:
 
 Atividade AP Final - Monitoramento de Logs
 
@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Wazuh 
 Linux
+Windows 10
 
 
 👨‍🎓 DC-3A
